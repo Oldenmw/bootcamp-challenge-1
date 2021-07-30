@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/** Header Section **/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +21,10 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 span {
     color: #d9dcd6;
 }
-
+/** Header Nav subsection to put the links on the right side of the page **/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,20 +37,23 @@ nav ul {
     list-style-type: none;
 }
 
-nav ul li {
+nav li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/** Styling of all links in the header **/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/** Consistent font size for all paragraph sections on the page **/
 p {
     font-size: 16px;
 }
 
+/** Styling of the hero to be just the background image **/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     background-position: center;
 }
 
+/** float classes for images in the content section **/
 .float-left {
     float: left;
     margin-right: 25px;
