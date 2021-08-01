@@ -1,5 +1,5 @@
 # Horiseon Index Page Refactor
-![Webpage](https://imgur.com/2WrHIqd)
+![Webpage](/assets/images/webpage-preview.png?raw=true)
 
 ## Objective
 Refactor the index file and CSS of a webpage to make it more accessible and implement best practices for the HTML and CSS code.
